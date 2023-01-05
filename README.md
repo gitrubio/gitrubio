@@ -6,8 +6,11 @@
 - 🌱 I’m currently learning **Nest Js, graphQl**
 
  <h3 align="left">Languages:</h3>
+ 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrubio&layout=compact)
+
 <h3 align="left">Stats:</h3>
+
 ![gitrubio's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitrubio&show_icons=true&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
