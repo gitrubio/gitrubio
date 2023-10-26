@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm carlos rubio</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Terpel POS**
-
-- 🌱 I’m currently learning **Nest Js, graphQl**
+- 🌱 I’m currently learning **Nest Js, graphQl, Flutter**
 
  <h3 align="left">Languages:</h3>
  
