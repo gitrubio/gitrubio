@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Nest Js, graphQl, Flutter**
-- <a href="https://carlos-rubio-portfolio.onrender.com/">Portfolio 🔗
+- <a href="https://carlosrubio.netlify.app">Portfolio 🔗
  <h3 align="left">Languages:</h3>
  
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrubio&layout=compact)
